@@ -1,1 +1,3 @@
 This is going to be our .R file with all of our packages functions
+
+library(devtools)
